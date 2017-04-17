@@ -1,6 +1,0 @@
-1.训练数据和测试数据以excel的形式放在dataset文件中
-2.商品的码表以csv的形式存放在dataset中（后续根据实际需要再作调整）
-3.项目中对应的两个.py文件，MultilabelMethods是多标签分类的主要实现文件
-4.result_score.py是对测试结果进行统计的文件，包含各种多标签测试的指标
-5.项目最终会生成三个文件：PredictResult.xlsx、PredictResultChinese.xlsx以及
-存放测试集数据测评指标结果的文件ResultScore.txt.
